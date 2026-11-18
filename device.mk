@@ -250,6 +250,7 @@ PRODUCT_PACKAGES += \
     SystemUIResCommon \
     SystemUIResTarget \
     TelephonyResCommon \
+    UpdaterOverlayFP4 \
     WifiResCommon
 
 # Partitions
